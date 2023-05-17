@@ -15,7 +15,7 @@
   height: 2rem;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url("/assets/images/icons/header.svg");
+  background-image: url("../images/icons/header.svg");
 }
 
 .header .photo {
@@ -55,19 +55,19 @@
 }
 
 .information .cargo::before {
-  background: url("/assets/images/icons/cargo.svg") no-repeat;
+  background: url("../images/icons/cargo.svg") no-repeat;
 }
 
 .information .localizacao::before {
-  background: url("/assets/images/icons/localizacao.svg") no-repeat;
+  background: url("../images/icons/localizacao.svg") no-repeat;
 }
 
 .information .numero::before {
-  background: url("/assets/images/icons/numero.svg") no-repeat;
+  background: url("../images/icons/numero.svg") no-repeat;
 }
 
 .information .email::before {
-  background: url("/assets/images/icons/email.svg") no-repeat;
+  background: url("../images/icons/email.svg") no-repeat;
 }
 
 @media only screen and (min-width: 768px) {
