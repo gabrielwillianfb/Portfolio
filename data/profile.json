@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "html",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/Portifolio/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/gabrielwillianfb/Portifolio/main/data/imgs/html.png"
       },
       {
         "name": "css",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/Portifolio/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/gabrielwillianfb/Portifolio/main/data/imgs/css.png"
       },
       {
         "name": "javascript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/Portifolio/main/data/imgs/javascript.png"
+        "logo": "https://raw.githubusercontent.com/gabrielwillianfb/Portifolio/main/data/imgs/javascript.png"
       },
       {
         "name": "angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/Portifolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/gabrielwillianfb/Portifolio/main/data/imgs/angular.png"
       },
       {
         "name": "git",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/Portifolio/main/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/gabrielwillianfb/Portifolio/main/data/imgs/git.png"
       },
       {
         "name": "github",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/Portifolio/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/gabrielwillianfb/Portifolio/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
